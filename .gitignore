@@ -1,0 +1,9 @@
+#Sistema
+.DS_Store
+
+#Vscode
+.vscode/
+
+#Archivos temporales
+*.tmp
+*.swp
