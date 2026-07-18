@@ -28,6 +28,11 @@ Prácticas enfocadas en:
 
 Página web orientada a la promoción de servicios profesionales.
 
+<p align="center">
+    <img src="screenshots/freelancer_pc.png" alt="freelancer_pc" width="50%"><br>
+    <em>Figura 1. Página principal del proyecto Freelancer.</em><br>
+</p>
+
 Conceptos aplicados:
 
 - HTML semántico.
@@ -42,6 +47,16 @@ Conceptos aplicados:
 
 Sitio web tipo tienda en línea con múltiples páginas y catálogo de productos.
 
+<p align="center">
+    <img src="screenshots/frontend_store_inicio.png" alt="frontend_store_inicio" width="50%"><br>
+    <em>Figura 2. Página principal del catálogo de productos.</em><br><br>
+</p>
+
+<p align="center">
+    <img src="screenshots/frontend_store_producto.png" alt="frontend_store_producto" width="50%"><br>
+    <em>Figura 3. Vista individual de producto.</em><br>
+</p>
+
 Conceptos aplicados:
 
 - Metodología BEM.
@@ -55,6 +70,12 @@ Conceptos aplicados:
 #### Patrones Responsive Web Design (RWD)
 
 Colección de ejemplos orientados al aprendizaje y comparación de técnicas de diseño responsivo utilizando CSS Grid y Flexbox.
+
+<p align="center">
+    <img src="screenshots/layout_shifter_pc.png" alt="layout_shifter_pc" width="50%"><br>
+    <em>Figura 4. Ejemplo del patrón responsive Layout Shifter.</em><br>
+</p>
+
 
 Patrones implementados:
 
@@ -77,6 +98,12 @@ Tecnologías utilizadas:
 
 ```text
 Desarrollo-Web-FullStack/
+│
+├── screenshots/
+│   ├── freelancer_pc.png
+│   ├── frontend_store_inicio.png
+│   ├── frontend_store_producto.png
+│   └── layout_shifter_pc.png
 │
 ├── html-css/
 │   ├── Freelancer/
