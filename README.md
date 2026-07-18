@@ -52,29 +52,36 @@ Conceptos aplicados:
 - Página de producto.
 - Diseño adaptable para dispositivos móviles.
 
+#### Patrones Responsive Web Design (RWD)
+
+Colección de ejemplos orientados al aprendizaje y comparación de técnicas de diseño responsivo utilizando CSS Grid y Flexbox.
+
+Patrones implementados:
+
+- Two Columns.
+- Three Columns.
+- Column Drop.
+- Sidebar Layout.
+- Layout Shifter.
+- Mostly Fluid.
+- Tiny Tweaks.
+
+Tecnologías utilizadas:
+
+- Flexbox.
+- CSS Grid.
+- Responsive Design.
+- Media Queries.
+
 ## Estructura del Proyecto
 
 ```text
 Desarrollo-Web-FullStack/
 │
 ├── html-css/
-│   ├── freelancer/
-│   │   ├── css/
-│   │   │    ├── normalize.css
-│   │   │    └── styles.css
-│   │   │     
-│   │   ├── img/
-│   │   └── index.html
-│   │
-│   └── frontend-store/
-│       ├── css/
-│       │    ├── normalize.css
-│       │    └── styles.css
-│       │  
-│       ├── img/
-│       ├── index.html
-│       ├── nosotros.html
-│       └── producto.html
+│   ├── Freelancer/
+│   ├── FrontEnd-Store/
+│   └── Patrones-RWD/
 │
 ├── README.md
 └── .gitignore
@@ -108,4 +115,5 @@ Se aclara que al momento de la publicación inicial de este repositorio, el curs
 
 ### Historial del Proyecto
 
-- Creación del repositorio y publicación de primeros proyectos: **16 de julio de 2026**.
+- Creación del repositorio y publicación de primeros proyectos HTML5 y CSS3: **16 de julio de 2026**.
+- Prácticas de patrones de Responsive Web Design (RWD): **17 de julio de 2026**.
