@@ -94,6 +94,43 @@ Tecnologías utilizadas:
 - Responsive Design.
 - Media Queries.
 
+#### Blog De Café
+
+Sitio web multipágina orientado a la publicación de contenido relacionado con el café, incluyendo artículos de blog, cursos, talleres y un formulario de contacto.
+
+<p align="center">
+    <img src="screenshots/blogdecafe_inicio.png" alt="Imagen Página Principal de Blog de Café" width="50%"><br>
+    <em>Figura 5. Página principal del Blog de Café.</em><br><br>
+</p>
+
+<p align="center">
+    <img src="screenshots/blogdecafe_cursos.png"
+    alt="Imagen Cursos de Blog de Café" width="50%"><br>
+    <em>Figura 6. Página de cursos y talleres disponibles.</em><br><br>
+</p>
+
+<p align="center">
+    <img src="screenshots/blogdecafe_contacto.png"
+    alt="Imagen Contacto de Blog de Café" width="50%"><br>
+    <em>Figura 7. Formulario de contacto del sitio web.</em>
+</p>
+
+**Conceptos aplicados:**
+
+- HTML semántico.
+- CSS Grid.
+- Flexbox.
+- Responsive Design.
+- Metodología BEM.
+- Formularios web.
+- Lazy Loading de imágenes.
+- Optimización mediante Preload, Prefetch y Preconnect.
+- Imágenes WebP con Modernizr.
+- Normalize.css.
+- Organización modular de estilos.
+- Navegación multipágina.
+
+
 ## Estructura del Proyecto
 
 ```text
@@ -103,12 +140,16 @@ Desarrollo-Web-FullStack/
 │   ├── freelancer_pc.png
 │   ├── frontend_store_inicio.png
 │   ├── frontend_store_producto.png
-│   └── layout_shifter_pc.png
+│   ├── layout_shifter_pc.png
+│   ├── blogdecafe_inicio.png
+│   ├── blogdecafe_cursos.png
+│   └── blogdecafe_contacto.png
 │
 ├── html-css/
 │   ├── Freelancer/
 │   ├── FrontEnd-Store/
-│   └── Patrones-RWD/
+│   ├── Patrones-RWD/
+│   └── BlogDeCafe/
 │
 ├── README.md
 └── .gitignore
@@ -127,6 +168,10 @@ Durante el desarrollo de estas prácticas se han aplicado conocimientos en:
 - Diseño de formularios.
 - Organización modular de recursos web.
 - Optimización básica de carga de recursos.
+- Lazy Loading.
+- Imágenes WebP.
+- Preload, Prefetch y Preconnect.
+- Navegación multipágina.
 
 ## Autor
 
@@ -144,3 +189,4 @@ Se aclara que al momento de la publicación inicial de este repositorio, el curs
 
 - Creación del repositorio y publicación de primeros proyectos HTML5 y CSS3: **16 de julio de 2026**.
 - Prácticas de patrones de Responsive Web Design (RWD): **17 de julio de 2026**.
+- Incorporación del proyecto multipágina Blog De Café: **21 de julio de 2026**.
